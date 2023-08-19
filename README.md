@@ -1,7 +1,7 @@
 # News Hub - Your Ultimate News Aggregator
 News Hub is a React-based web application that provides you with the latest news articles from around the world. With News Monkey, you can stay informed about various categories of news such as general, business, entertainment, health, science, sports, and technology. You can also customize your news feed by selecting a specific country.
 
-![News Hubb Screenshot]([/images/news_image.jpg](https://github.com/tanishq-khandelwal/NewsHub/blob/main/news-git.png))
+![News Hubb Screenshot](news-git.png)
 )
 
 
